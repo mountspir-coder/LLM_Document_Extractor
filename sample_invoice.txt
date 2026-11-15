@@ -1,0 +1,4 @@
+INVOICE #999
+Date: 2024-01-01
+Client: Test Corp
+Total: $1,000.00
