@@ -29,10 +29,13 @@ Businesses receive hundreds of PDF invoices, receipts, and purchase orders daily
 ---
 
 ## 📸 Screenshots & Demo
-*(Replace these placeholders with your actual screenshots/GIFs)*
-*   **Main Interface:** `![UI](link_to_screenshot.png)`
-*   **Excel Output:** `![Excel](link_to_excel_screenshot.png)`
-*   *(Optional)* **Watch the Demo:** `[Insert Link to Loom/YouTube Video]`
+
+*   **Main Interface:** 
+    ![UI](https://github.com/user-attachments/assets/95c7fba3-e2b8-4961-9eb0-99551f5a272d)
+
+*   **Excel Output:** 
+    ![Excel](https://github.com/user-attachments/assets/89226d49-c2df-43b5-82e1-56c89fa1d421)
+
 
 ---
 
